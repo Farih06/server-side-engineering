@@ -1,0 +1,772 @@
+A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.A 2014 trend analysis published in The Economist stated that "The number of editors for the English-language version has fallen by a third in seven years."[25] The attrition rate for active editors in English Wikipedia was described by The Economist as substantially higher than in other (non-English) Wikipedias. It reported that in other languages, the number of "active editors" (those with at least five edits per month) has been relatively constant since 2008: some 42,000 editors, with narrow seasonal variances of about 2,000 editors up or down.
+
+In the English Wikipedia, the number of active editors peaked in 2007 at about 50,000 editors, and fell to 30,000 editors in 2014.[25]
+
+Given that the trend analysis published in The Economist presented the number of active editors for non-English Wikipedias as remaining relatively constant, sustaining their numbers at approximately 42,000 active editors, the contrast pointed to the effectiveness of Wikipedia in those languages to retain their active editors on a renewable and sustained basis.[25] Though different language versions of Wikipedia have different policies, no comment identified a particular policy difference as potentially making a difference in the rate of editor attrition for English Wikipedia.[26] Editor count showed a slight uptick a year later, and no clear trend after that.
+
+In a 2013 article, Tom Simonite of MIT Technology Review said that for several years running, the number of Wikipedia editors had been falling, and cited the bureaucratic structure and rules as a factor. Simonite alleged that some Wikipedians use the labyrinthine rules and guidelines to dominate others and have a vested interest in keeping the status quo.[27] A January 2016 article in Time by Chris Wilson said Wikipedia might lose many editors because a collaboration of occasional editors and smart software will take the lead.[28]
+
+Andrew Lih and Andrew Brown both maintain editing Wikipedia with smartphones is difficult and discourages new potential contributors. Lih alleges there is serious disagreement among existing contributors on how to resolve this. In 2015, Lih feared for Wikipedia's long-term future while Brown feared problems with Wikipedia would remain and rival encyclopedias would not replace it.[14][17]
+
+Viewers and fundraisers
+As of 2015, with more viewing by smartphones, there had been a marked decline in persons who viewed Wikipedia from their computers, and according to The Washington Post "[people are] far less likely to donate". At the time, the Wikimedia Foundation reported reserves equivalent to one year's budgeted expenditures. On the other hand, the number of paid staff had ballooned, so those expenses increased.[29]
+
+In 2021, Andreas Kolbe, a former co-editor-in-chief of The Signpost, wrote that the Wikimedia Foundation was reaching its 10-year goal of a US$100 million endowment, five years earlier than planned, which may surprise donors and users around the world who regularly see Wikipedia fundraising banners. He also said accounting methods disguise the size of operating surpluses, top managers earn $300,000 – 400,000 a year, and over 40 people work exclusively on fundraising.[30]
+
+Artificial intelligence
+
+Wikipedia page views by language
+Wikipedia faces a decline in human visitors, raising concerns about its long-term sustainability and community participation. The Wikimedia Foundation (WMF), when reporting this decline, attributed this in part to the lack of clicks from users of large language models and search engines that are using content from Wikipedia.[31] Data published in August 2025 showed that after the launch of ChatGPT and the rise of other AI-powered search summaries, some types of articles on Wikipedia — especially those that closely resemble the kind of content ChatGPT produces — experienced a noticeable drop in readership. Overall human pageviews reportedly fell by about 8% between 2024 and 2025, suggesting that AI-overviews and chatbots are increasingly being used in place of direct visits to Wikipedia.[32]
+
+According to industry web analytics data, ChatGPT's estimated monthly web traffic surpassed that of Wikipedia since May 2025, as visits to ChatGPT continued to grow while Wikipedia’s total site traffic declined.[33]
+
+Timeline of predictions
+On the eve of the 20th anniversary of Wikipedia, associate professor of the Department of Communication Studies at Northeastern University Joseph Reagle conducted a retrospective study of numerous "predictions of the ends of Wikipedia" over two decades, divided into chronological waves: "Early growth (2001–2002)", "Nascent identity (2001–2005)", "Production model (2005–2010)", "Contributor attrition (2009–2017)" and the current period "(2020–)". Each wave brought its distinctive fatal predictions, which never came true; as a result, Reagle concluded Wikipedia was not in danger.[34]
+
+Concern grew in 2023 that the ubiquity and proliferation of artificial intelligence (AI) may adversely affect Wikipedia. Rapid improvements and widespread application of AI may render Wikipedia obsolete or reduce its importance.[13] A 2023 study found that AI, when applied to Wikipedia, works most efficiently for error-correction, while Wikipedia still needs to be written by humans.[35][verification needed]
+
+See also
+Good Faith Collaboration: The Culture of Wikipedia
+History of Wikipedia
+Wikipedia Zero
+References
+ Dawson, Christopher (17 May 2009). "Wolfram Alpha: Wikipedia killer?". ZDNet. CBS Interactive. Archived from the original on 26 October 2021.
+ Helft, Miguel (23 July 2008). "Wikipedia, Meet Knol". The New York Times. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Dawson, Christopher (28 July 2008). "Google Knol – Yup, it's a Wikipedia killer". ZDNet. CBS Interactive. Archived from the original on 15 May 2021.
+ Techcrunch (18 January 2010). "Is Owl AOL's Wikipedia-Killer?". www.mediapost.com. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Massachusetts Institute of Technology.
+ Dawson, Christopher (9 December 2008). "Will Virgin Killer be a Wikipedia killer?". ZDNET. CBS Interactive.
+ Sankin, Aaron (29 December 2013). "Archive of deleted Wikipedia articles reveals site's imperfections". The Daily Dot. Archived from the original on 10 September 2018. Retrieved 19 October 2025. Wikipedia, which has an entry on fart jokes, still deems some topics unworthy of inclusion.
+ "Main Page - Deletionpedia.org". Deletionpedia. Archived from the original on 18 August 2022. Retrieved 20 August 2022.
+ "Wikipedia is 20, and its reputation has never been higher". The Economist. 9 January 2021. ISSN 0013-0613. Retrieved 2 April 2021.
+ Gebelhoff, Robert (19 October 2016). "Opinion: Science shows Wikipedia is the best part of the Internet". Washington Post. ISSN 0190-8286. Archived from the original on 12 October 2017. Retrieved 6 December 2023.
+ Cooke, Richard (17 February 2020). "Wikipedia Is the Last Best Place on the Internet". Wired. Retrieved 24 November 2021.
+ Greene, Tristan (20 September 2017). "Forget what your school says, MIT research proves Wikipedia is a source for science". The Next Web. Retrieved 2 April 2021.
+ Gertner, Jon (18 July 2023). "Wikipedia's Moment of Truth". The New York Times. Retrieved 13 August 2023.
+ Lih, Andrew (20 June 2015). "Can Wikipedia Survive?". The New York Times. Archived from the original on 21 June 2015. Retrieved 18 December 2019.
+ Halfaker, Aaron; Geiger, R. Stuart; Morgan, Jonathan T.; Riedl, John (28 December 2012). "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline" (PDF). American Behavioral Scientist. 57 (5): 664–688. doi:10.1177/0002764212469365. S2CID 144208941. Archived from the original (PDF) on 30 August 2017. Retrieved 6 December 2023.
+ Chen, Adrian (4 August 2011). "Wikipedia Is Slowly Dying". Gawker. Archived from the original on 18 October 2017. Retrieved 23 October 2017.
+ Brown, Andrew (25 June 2015). "Wikipedia editors are a dying breed. The reason? Mobile". The Guardian. Archived from the original on 16 April 2019. Retrieved 29 April 2019.
+ Angwin, Julia; Fowler, Geoffrey A. (27 November 2009). "Volunteers Log Off as Wikipedia Ages". Wall Street Journal. Archived from the original on 25 October 2017. Retrieved 23 October 2017.
+ Derakhshan, Hossein (19 October 2017). "How Social Media Endangers Knowledge". Wired. Archived from the original on 22 October 2018. Retrieved 23 October 2017.
+ James, Andrea (14 February 2017). "Watching Wikipedia's extinction event from a distance". Boing Boing. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Carr, Nicholas G. (24 May 2006). "The death of Wikipedia". ROUGH TYPE. Archived from the original on 24 October 2017. Retrieved 23 October 2017.
+ Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Archived from the original on 28 March 2017. Retrieved 30 June 2019.
+ Henderson, William (5 September 2012). "Wikipedia reaches a turning point: it's losing administrators faster than it can appoint them". The Telegraph. Archived from the original on 4 December 2012. Retrieved 30 June 2019.
+ "Wikipedia Statistics (English)". stats.wikimedia.org.
+ "The future of Wikipedia: WikiPeaks?". The Economist. 1 March 2014. Archived from the original on 8 April 2014. Retrieved 11 March 2014.
+ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+ Simonite, Tom (22 October 2013). "The Decline of Wikipedia". MIT Technology Review. Archived from the original on 19 June 2015. Retrieved 30 November 2013.
+ Wilson, Chris (14 January 2016). "Why Wikipedia Is in Trouble". Time. Archived from the original on 3 February 2018. Retrieved 22 June 2021.
+ Dewey, Caitlin (2 December 2015). "Internet Culture: Wikipedia has a ton of money. So why is it begging you to donate yours?". Washington Post. Archived from the original on 10 July 2018. Retrieved 8 December 2019.
+ Kolbe, Andreas (24 May 2021). "Wikipedia is swimming in money—why is it begging people to donate?". The Daily Dot. Retrieved 12 February 2023.
+ Maiberg, Emanuel (17 October 2025). "Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors". 404 Media. Retrieved 20 October 2025.
+ "ChatGPT Is Stealing Readers From Wikipedia". Columbia Business School. 25 August 2025.
+ Sinclair, Max (9 June 2025). "ChatGPT Traffic Overtakes Wikipedia". azoma.ai.
+ Wikipedia:Wikipedia Signpost/2020-11-01/In focus
+ Petroni, Fabio; Broscheit, Samuel; Piktus, Aleksandra; Lewis, Patrick; Izacard, Gautier; Hosseini, Lucas; Dwivedi-Yu, Jane; Lomeli, Maria; Schick, Timo; Bevilacqua, Michele; Mazaré, Pierre-Emmanuel; Joulin, Armand; Grave, Edouard; Riedel, Sebastian (October 2023). "Improving Wikipedia verifiability with AI". Nature Machine Intelligence. 5 (10): 1142–1148. arXiv:2207.06220. doi:10.1038/s42256-023-00726-1. S2CID 250491944.
+Further reading
+Gertner, Jon. (2023) "Wikipedia's Moment of Truth: Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?" New York Times Magazine (July 18, 2023) online
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. Hachette Books. ISBN 978-1401395858.
+Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford University Press. ISBN 978-0804791205.
+WP:THREATENING2MEN Peake, Bryce (2015). "WP:THREATENING2MEN: Misogynist Infopolitics and the Hegemony of the Asshole Consensus on English Wikipedia". Ada: A Journal of Gender, New Media, and Technology (7). doi:10.7264/N3TH8JZS (inactive 12 July 2025). Archived from the original on 12 February 2020. Retrieved 16 February 2020.
+Reagle, Joseph Michael; Lessig, Lawrence (2010). Good Faith Collaboration: The Culture of Wikipedia. The MIT Press. ISBN 978-0262288705.
+Reagle, Joseph (15 October 2020). "The Many (Reported) Deaths of Wikipedia". In Jackie, Koerner (ed.). Wikipedia @ 20. Cambridge, Massachusetts: The MIT Press. p. 9. ISBN 9780262538176. Retrieved 4 December 2021.
+Solorio, Thamar; Hasan, Ragib; Mizan, Mainul. A Case Study of Sockpuppet Detection in Wikipedia (PDF). The University of Alabama at Birmingham.
+vte
+Wikipedia
+Overview
+(outline)	
+Biases gendergeographicalideologicalracialCensorshipConflict-of-interest editing political editing incidentsCriticismDeletion of articles deletionism and inclusionismnotabilityDisputes"Ignore all rules"MediaWikiPlagiarismPredictions of the project's endReliability Fact-checkingCitation neededPerennial sources listVandalism
+Community
+(Wikipedians)	
+AdministratorsAfroCrowdArbitration CommitteeArt+FeminismBots LsjbotEdit countList of WikipediasThe SignpostWikimedian of the YearWikipedian in residenceWikiProject Women in Red
+Events	
+Edit-a-thonWikiConference IndiaWiki IndabaWikiConference North AmericaWikimania
+Wiki Loves	
+EarthFolkloreMonumentsPrideScience
+People
+(list)	
+Esra'a Al ShafeiLee Daniel CrockerFlorence DevouardSue GardnerDavid GerardJames HeilmanMaryana IskanderDariusz JemielniakRebecca MacKinnonKatherine MaherMagnus ManskeBernadette MeehanErik MöllerJason MooreRaju NarisettiSteven PruittAnnie RauwerdaLarry SangerSeedfeederMaría SefidariLisa Seitz-GruwellRosie Stephenson-GoodknightLila TretikovJimmy WalesMolly White
+History	
+Bomis NupediaFirst editLogoInternet Watch FoundationScientologyHillsborough disaster Wikipedia postsVisualEditor#1Lib1RefWikimedia Foundation actions on the Chinese Wikipedia (2021)against MENA Wikipedians (2022)Timeline of Wikipedia–U.S. government conflicts
+Controversies	
+Alan MacMasters hoaxAntisemitism on WikipediaAsian News International v. Wikimedia FoundationBrazilian aardvarkCarlos Bandeirense Mirandópolis hoaxEdit warsEssjay controversyHenryk Batuta hoaxJar'Edo Wens hoaxOperation OrangemoodySeigenthaler biography incidentStar Trek Into Darkness debateUnited States congressional staff editsWeintraub controversyZhemao hoaxes
+Coverage	
+American politics Donald TrumpCOVID-19 pandemicDeathIsraeli–Palestinian conflictRusso-Ukrainian war
+Honors	
+Wikipedia Monument274301 WikipediaViola angustifolia
+References
+and analysis	
+Academic studiesBibliographyCulturalFilmsListen to WikipediaWikipediocracyWikipedia philosophy phenomenon
+Mobile	
+AppsQRpediaWapediaWikipedia ZeroWikiReaderWikiwand
+Content use	
+DBpediaDepths of WikipediaGoogle and WikipediaHealth informationKiwixScience informationWikipedia-based education Wiki Education Foundation
+Related	
+Artificial intelligenceCheckUserThe Iraq War: A Historiography of Wikipedia ChangelogsLGBTQ and WikipediaMagna Carta (An Embroidery)People imprisoned for editing Wikipedia BelarusPrint WikipediaThe Seven Rules of TrustWiki rabbit holeWikimedia FoundationWikimedia movementWikipedia for World HeritageWikipedia in IndiaWikipedia: The Text AdventureWikigachaWikiracingList of online encyclopediasList of wikis
+ List Category
+Categories: Criticism of WikipediaMass media disestablishmentsPredictionAI software
+This page was last edited on 15 May 2026, at 22:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
